@@ -61,4 +61,5 @@ The above command only bash script If you are in zsh (z shell) script then you c
 3. ```pip install atari-py```
 
 
-
+# Acknowledgement
+This repo was higly inspired by [Robert Clark](https://github.com/roclark/openai-gym-pytorch), I have used this library to explain this [article]()
